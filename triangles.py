@@ -1,3 +1,5 @@
+# output 10 lines of yanghui triangles
+
 def triangles():
 	L = [1]
 	yield L
